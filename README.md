@@ -7,6 +7,7 @@ Curated list of awesome Emscripten ports (Apps, Games, Libraries)
 ## Games
 
 * [3D Pinball for Windows - Space Cadet](https://github.com/k4zmu2a/SpaceCadetPinball)
+* [Blobby Volley 2](https://github.com/danielknobe/blobbyvolley2)
 * [Bombermaaan](https://github.com/midzer/Bombermaaan)
 * [C-Dogs SDL](https://github.com/midzer/cdogs-sdl)
 * [Chromium B.S.U.](https://github.com/midzer/chromium-bsu)
