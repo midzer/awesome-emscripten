@@ -8,6 +8,7 @@ Curated list of awesome Emscripten ports (Apps, Games, Libraries)
 
 * [3D Pinball for Windows - Space Cadet](https://github.com/k4zmu2a/SpaceCadetPinball)
 * [Bombermaaan](https://github.com/midzer/Bombermaaan)
+* [C-Dogs SDL](https://github.com/midzer/cdogs-sdl)
 * [Chromium B.S.U.](https://github.com/midzer/chromium-bsu)
 * [Der Clou!](https://github.com/midzer/derclou)
 * [Dune II](https://github.com/midzer/OpenDUNE)
