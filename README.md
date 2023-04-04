@@ -24,5 +24,6 @@ Curated list of awesome Emscripten ports (Apps, Games, Libraries)
 * [Shiromino](https://github.com/midzer/shiromino)
 * [The Legend of Zelda - A Link to the Past](https://github.com/midzer/zelda3)
 * [Wolfenstein 3D](https://github.com/midzer/wolf4sdl)
+* [xrick](https://www.xrick.net/)
 
 ## Libraries
